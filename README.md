@@ -30,4 +30,4 @@ Chapter 8: Controlling Your Robots with External Devices
 
 Chapter 9: Flying a Mission with Crazyflie
 
-Chapter 10: Extending Your ROS Abilities
+Chapter 10: Controlling Baxter with MATLAB
