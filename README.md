@@ -1,4 +1,7 @@
 # ROS-Robotics-By-Example-2nd-Edition
+
+<a href="https://www.packtpub.com/hardware-and-creative/ros-robotics-example-second-edition"><img src=https://www.packtpub.com/sites/default/files/B08463_MockupCover.png width=200/></a>
+
 companion software and files for the book ROS Robotics By Example - 2nd Edition
 
 --------------------------------------------------------------------------------
@@ -8,7 +11,7 @@ Bring life to your robot using ROS robotic applications
 
 Authors: Carol Fairchild and Dr. Thomas L. Harman
 
-================================================================================
+===============================================================================
 
 Book Table of Contents
 
