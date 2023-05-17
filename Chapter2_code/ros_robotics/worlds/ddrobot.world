@@ -1,21 +1,21 @@
 <?xml version="1.0" ?>
 <sdf version="1.4">
-  <world name="default">
-    <include>
-      <uri>model://ground_plane</uri>
-    </include>
-    <include>
-      <uri>model://sun</uri>
-    </include>
-    <include>
-      <uri>model://construction_cone</uri>
-      <name>construction_cone</name>
-      <pose>-3.0 0 0 0 0 0</pose>
-    </include>
-    <include>
-      <uri>model://construction_cone</uri>
-      <name>construction_cone</name>
-      <pose>3.0 0 0 0 0 0</pose>
-    </include>
-  </world>
+    <world name="default">
+        <include>
+            <uri>model://ground_plane</uri>
+        </include>
+        <include>
+            <uri>model://sun</uri>
+        </include>
+        <include>
+            <uri>model://construction_cone</uri>
+            <name>construction_cone1</name>            <!-- Modify the name to make it unique -->
+            <pose>-3.0 0 0 0 0 0</pose>
+        </include>
+        <include>
+            <uri>model://construction_cone</uri>
+            <name>construction_cone2</name>            <!-- Modify the name to make it unique -->
+            <pose>3.0 0 0 0 0 0</pose>
+        </include>
+    </world>
 </sdf>
